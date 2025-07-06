@@ -13,12 +13,12 @@ div[class*="stTextInput"] label p {
 </style>
 """, unsafe_allow_html=True)
 
-tfidf = pickle.load(open(r"C:\Users\KALYAN\Desktop\Projects\Spam Email Prediction\feature.pkl", 'rb'))
-model = pickle.load(open(r"C:\Users\KALYAN\Desktop\Projects\Spam Email Prediction\model.pkl", 'rb'))
+tfidf = pickle.load(open(r"C:\Users\Hepsi\Desktop\Projects\Spam Email Prediction\feature.pkl", 'rb'))
+model = pickle.load(open(r"C:\Users\Hepsi\Desktop\Projects\Spam Email Prediction\model.pkl", 'rb'))
 
 st.title("Spam E-Mail Classifier")
 
-image = Image.open(r"C:\Users\KALYAN\Desktop\images.jpg")
+image = Image.open(r"C:\Users\Hepsi\Desktop\images.jpg")
 st.image(image, use_column_width=True)
 
 
