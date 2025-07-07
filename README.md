@@ -1,5 +1,7 @@
 # Spam Email Detection using Machine Learning 
 
+By [<b>Hepsi Rani</b>](https://www.linkedin.com/in/hepsi-rani-4b78a3344/)
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
